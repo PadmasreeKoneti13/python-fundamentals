@@ -9,6 +9,12 @@ This repository contains my practice problems as I master the building blocks of
 * **Collections:** Working with Lists, Tuples, Sets, and Dictionaries.
 * **OOP:** Introduction to Object-Oriented Programming and Classes.
 
+* Pythonic Logic & Shortcuts
+To write clean, efficient backend code, I utilize Python-specific features:
+Tuple Unpacking: Swapping variables in one line (a, b = b, a) instead of using temporary variables.
+String Slicing: Efficiently reversing strings or extracting parts using [::-1] and index ranges.
+Input Validation: Using while True loops with try/except blocks to ensure data integrity before processing.
+
 ## Featured Programs
 * **Calculator:** A terminal-based program with nested loops and error checking.
 * **Logic Scripts:** Problems covering Fibonacci, Factorials, and String manipulation.
